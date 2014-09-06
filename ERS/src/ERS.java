@@ -11,7 +11,6 @@ TO ADD: rules in command prompt
 APP STORE: tap deck to flip, tap used pile to slap
 */
 
-// Note: There are a lot of imports!
 import java.awt.Color; // enables color, used for transparency of cards
 import java.awt.GraphicsEnvironment;
 import java.awt.event.KeyEvent; // enables getKeyCode for KeyListener
